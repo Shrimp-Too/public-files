@@ -1,2 +1,2 @@
 # public-files
-This is a test repo
+这里有一份 zotero translators 网站的csv文件。
